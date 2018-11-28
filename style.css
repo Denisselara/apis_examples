@@ -1,0 +1,39 @@
+
+body{
+    background-color: #272727;
+    color: white;
+}
+
+#map {
+    height: 80vh;  
+    width: 100%;  
+}
+
+#image{
+    margin: 0 auto;
+}
+
+.font-light{
+    color: grey;
+    font-size: 0.8em;
+}
+
+.bg-grey{
+    background: #565656;
+}
+
+.p20{
+    padding: 20px;
+}
+
+.p10em{
+    padding: 10em;
+}
+
+.radius-5px{
+    border-radius: 5px;
+}
+
+.size-3em{
+    font-size: 3em;
+}
